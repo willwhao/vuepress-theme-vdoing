@@ -10,11 +10,9 @@
 
 <h2 align="center">vuepress-theme-vdoing</h2>
 
-
-
- [文档](https://doc.xugaoyi.com/)  |
- [效果](https://xugaoyi.com/)  |
- [本仓库的gitee镜像](https://gitee.com/xugaoyi/vuepress-theme-vdoing)
+[文档](https://doc.xugaoyi.com/) |
+[效果](https://xugaoyi.com/) |
+[本仓库的 gitee 镜像](https://gitee.com/xugaoyi/vuepress-theme-vdoing)
 
 <br/>
 <p align="center" style="color: #999;">
@@ -28,6 +26,7 @@
 <p align="center" style="color: #999; font-size:13px;">（进入赞助商扫码注册可为本项目作者充电~）</p>
 
 ## 介绍
+
 1. 这个主题的初衷是打造一个好用的、面向程序员的`知识管理工具`
 2. 轻松构建一个`结构化`的知识库，让你的知识海洋像一本本书一样清晰易读。
 3. 博客功能提供一种知识的`碎片化`形态，并支持个性化博客配置。
@@ -36,11 +35,11 @@
 [**更新日志**](https://github.com/xugaoyi/vuepress-theme-vdoing/releases)
 
 ## 这个主题可以做什么？
-* 案例1：[知识库兼博客站](https://xugaoyi.com/)
-* 案例2：[仅博客站](https://xugaoyi.github.io/vdoing-demo-blog/)
-* 案例3：[仅知识库](https://xugaoyi.github.io/vdoing-demo-repository/)
-* 案例4：[文档站](https://doc.xugaoyi.com/)
 
+- 案例 1：[知识库兼博客站](https://xugaoyi.com/)
+- 案例 2：[仅博客站](https://xugaoyi.github.io/vdoing-demo-blog/)
+- 案例 3：[仅知识库](https://xugaoyi.github.io/vdoing-demo-repository/)
+- 案例 4：[文档站](https://doc.xugaoyi.com/)
 
 ## 快速上手
 
@@ -69,7 +68,7 @@ npm run dev # or yarn dev
 
 如果你正在使用这个项目并感觉良好，或只是想要支持我继续开发，你可以通过如下*任意* 方式支持我：
 
-1. *Star* 并 分享这个项目 :rocket:
+1. _Star_ 并 分享这个项目 :rocket:
 2. 保留主题 footer(页脚) 的主题链接 :D
 3. 关注公众号`yqyjs666`，回复`前端资源`，可获取 [前端学习资源](https://github.com/xugaoyi/blog-gitalk-comment/wiki/Front-end-Study)
 <!-- 4. 轻轻点击一次页面广告 ✨ -->
@@ -77,13 +76,14 @@ npm run dev # or yarn dev
 
 谢谢！ :heart:
 
-| 微信赞赏 | 微信 | 支付宝 |
-| :---: | :---: | :---: |
-| <img src="https://cdn.staticaly.com/gh/xugaoyi/image_store/blog/20200523131533.jpg" alt="赞赏码" width=150> | <img src="https://cdn.staticaly.com/gh/xugaoyi/image_store/blog/20200410113708.jpg" alt="Wechat QRcode" width=150>| <img src="https://cdn.staticaly.com/gh/xugaoyi/image_store/blog/20200410113707.jpg" alt="Alipay QRcode" width=150> |
+|                                                  微信赞赏                                                   |                                                        微信                                                        |                                                       支付宝                                                       |
+| :---------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+| <img src="https://cdn.staticaly.com/gh/xugaoyi/image_store/blog/20200523131533.jpg" alt="赞赏码" width=150> | <img src="https://cdn.staticaly.com/gh/xugaoyi/image_store/blog/20200410113708.jpg" alt="Wechat QRcode" width=150> | <img src="https://cdn.staticaly.com/gh/xugaoyi/image_store/blog/20200410113707.jpg" alt="Alipay QRcode" width=150> |
 
-二维码没有正常显示？点 [这里😎](https://doc.xugaoyi.com/pages/1b12ed/)
+二维码没有正常显示？点 [这里 😎](https://doc.xugaoyi.com/pages/1b12ed/)
 
 ## 致谢
+
 :heart:感谢支持这个项目的朋友
 
 :heart:感谢为这个项目贡献代码的朋友 → [Contributors](https://github.com/xugaoyi/vuepress-theme-vdoing/graphs/contributors)
@@ -105,8 +105,8 @@ npm run dev # or yarn dev
   </tbody>
 </table>
 
-
 ## 许可证
+
 [MIT](https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE)
 
-Copyright (c) 2019-present Evan Xu
+Copyright (c) 2019-present Will Hao
