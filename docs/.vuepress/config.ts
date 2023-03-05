@@ -117,7 +117,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       }
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
-    logo: '/img/logo.png', // 导航栏logo
+    logo: 'https://dgss0.bdstatic.com/6LZ1dD3d1sgCo2Kml5_Y_D3/sys/portrait/item/4920646e6c37306341', //'/img/logo.png', // 导航栏logo
     repo: 'willwhao/vuepress-theme-vdoing', // 导航栏右侧生成Github链接
     searchMaxSuggestions: 10, // 搜索结果显示最大数
     lastUpdated: '上次更新', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
@@ -347,7 +347,20 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           return dayjs(timestamp).format('YYYY/MM/DD, HH:mm:ss')
         }
       }
-    ]
+    ],
+    // 动态标题，官网：https://moefyit.github.io/moefy-vuepress/packages/dynamic-title.html
+    [
+      'dynamic-title',
+      {
+        showIcon: 'https://wiki.eryajf.net/img/favicon.ico',
+        showText: 'ヾ(≧▽≦*)o欢迎回来！',
+        hideIcon: 'https://wiki.eryajf.net/img/favicon.ico',
+        hideText: '你快回来呀～',
+        recoverTime: 2000 //  持续时间
+      }
+    ],
+    // 鼠标点击后散开小星星
+    'cursor-effects'
   ],
 
   markdown: {
